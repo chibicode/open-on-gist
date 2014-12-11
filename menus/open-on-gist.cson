@@ -1,0 +1,11 @@
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'Open On Gist'
+      'submenu': [
+        { 'label': 'Current Project', 'command': 'open-on-gist:project' }
+      ]
+    ]
+  }
+]
