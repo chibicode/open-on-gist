@@ -1,6 +1,6 @@
 {
   "name": "open-on-gist",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "./lib/main",
   "description": "View the current repo on gist.github.com, if it's cloned from a Gist",
   "repository": "https://github.com/chibicode/open-on-gist",
